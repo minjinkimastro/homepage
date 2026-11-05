@@ -7,10 +7,11 @@ Publication details and asterisks follow the original Google Site. Submitted and
 - Hwang, G., et al., "Systematic Comparison of MIR-based and Optical Emission Line Active Galactic Nucleus Diagnostics in Dwarf Galaxies", submitted to ApJ*
 - Kim, M,, et al., "Elucidating the physical origin of the global and intrinsic Baldwin Effects via quasar spectral variability", submitted to A&A*
 - Kim, M, et al., "A UV-to-Near-infrared QSO Composite Spectrum from the SPHEREx All-Sky Survey", submitted to ApJS*
-- Lee, J. H., et al., "Comparing the Near-infrared Spectral Energy Distributions from Different Stellar Population Synthesis Models with SPHEREx Observations", ApJ, in press
+
 
 ## 2026
 
+- Lee, J. H., et al., "Comparing the Near-infrared Spectral Energy Distributions from Different Stellar Population Synthesis Models with SPHEREx Observations", ApJ, 2026, 1011, 179*
 - Son, S., et al., "The Changing-look Phenomenon Accompanied by an Accretion Mode Transition in NGC 3786", ApJ, 2026, 1003, 4*
 - Kim, M., et al., "A Catalog of Mid-infrared Variable Sources in the Ecliptic Poles", ApJS, 2026, 284, 39*
 - Jung, J., et al., "The Identification of Asymmetric Barred Galaxies in Illustris TNG-50", JKAS, 2026, 59, 199*
@@ -185,10 +186,7 @@ Publication details and asterisks follow the original Google Site. Submitted and
 ## 2010
 
 - Kim, D., et al., "New Estimators of Black Hole Mass in Active Galactic Nuclei with Hydrogen Paschen Lines", 2010, ApJ, 724, 386
-
-## Year not specified
-
-- Greene, J. E., et al., "Precise Black Hole Masses from Megamaser Disks: Black Hole-Bulge Relations at Low Mass", ApJ, 721, 26
+- Greene, J. E., et al., "Precise Black Hole Masses from Megamaser Disks: Black Hole-Bulge Relations at Low Mass", 2010, ApJ, 721, 26
 
 ## 2009
 
