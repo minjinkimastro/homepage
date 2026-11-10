@@ -1,7 +1,5 @@
 # Publications
 
-Publication details and asterisks follow the original Google Site. Submitted and in-press manuscripts are listed first.
-
 ## Submitted & in press
 
 - Hwang, G., et al., "Systematic Comparison of MIR-based and Optical Emission Line Active Galactic Nucleus Diagnostics in Dwarf Galaxies", submitted to ApJ*
