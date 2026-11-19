@@ -4,7 +4,7 @@
 
 - Hwang, G., et al., "Systematic Comparison of MIR-based and Optical Emission Line Active Galactic Nucleus Diagnostics in Dwarf Galaxies", submitted to ApJ*
 - Kim, M,, et al., "Elucidating the physical origin of the global and intrinsic Baldwin Effects via quasar spectral variability", submitted to A&A*
-- Kim, M, et al., "A UV-to-Near-infrared QSO Composite Spectrum from the SPHEREx All-Sky Survey", submitted to ApJS*
+- Kim, M, et al., "A UV-to-Near-infrared QSO Composite Spectrum from the SPHEREx All-Sky Survey", ApJS, in press*
 
 
 ## 2026
